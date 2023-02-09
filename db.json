@@ -1,0 +1,116 @@
+{
+    "hamburguer":[
+        {
+            "id": 1,
+            "nome": "X- Cheese",
+            "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+            "preco": 8.5,
+            "categoria_id": 1
+        },
+        {
+            "id": 2,
+            "nome": "X-Búrguer",
+            "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+            "preco": 10.5,
+            "categoria_id": 1
+        },
+        {
+            "id": 3,
+            "nome": "X-Bacon",
+            "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, 2 fatia de bacon, salada e batata.",
+            "preco": 12.5,
+            "categoria_id": 1
+        },
+        {
+            "id": 4,
+            "nome": "X-frango",
+            "descricao": "Pão, 2 bifes de frango 90g, 2 fatias de queijo, 4 fatias de bacon, salada e batata.",
+            "preco": 14.5,
+            "categoria_id": 1
+        }
+    ],
+    "refrigerante":[
+        {
+            "id":5,
+            "nome":"coca-cola",
+            "descrição":" 2 litros",
+            "quantidade":"1 unidade",
+            "preco":8.50,
+            "categoria_id": 2 
+        },
+        {
+            "id":6,
+            "nome":"fanta-uva",
+            "descrição":" 2 litros",
+            "quantidade":"1 unidade",
+            "preco":7.50,
+            "categoria_id": 2 
+        },
+        {
+            "id":7,
+            "nome":"pepsi-cola",
+            "descrição":" 2 litros",
+            "quantidade":"1 unidade",
+            "preco":8.50,
+            "categoria_id": 2 
+        },
+        {
+            "id":8,
+            "nome":"tobi",
+            "descrição":" 2 litros",
+            "quantidade":"1 unidade",
+            "preco": 4.50,
+            "categoria_id": 2 
+        }
+    ],
+    "acai":[
+        {
+            "id":9,
+            "sabor":"banana",
+            "tamanho":" 400ml",
+            "quantidade":"1 unidade",
+            "preco": 6,
+            "categoria_id": 3
+        },
+        {
+            "id":10,
+            "sabor":"banana",
+            "tamanho":" 500ml",
+            "quantidade":"1 unidade",
+            "preco": 8,
+            "categoria_id": 3
+        },
+        {
+            "id":11,
+            "sabor":"banana",
+            "tamanho":" 700ml",
+            "quantidade":"1 unidade",
+            "preco": 10,
+            "categoria_id": 3
+        },
+        {
+            "id":12,
+            "sabor":"banana",
+            "tamanho":" 1 Litro",
+            "quantidade":"1 unidade",
+            "preco": 13,
+            "categoria_id": 3
+        }
+    ],
+    "categorias": [
+    {
+      "id": 1,
+      "nome": "Hambúrgueres"
+    },
+    {
+      "id": 2,
+      "nome": "Refrigerantes"
+    },
+    {
+      "id": 3,
+      "nome": "açai"
+    }
+
+    ]
+}
+  
